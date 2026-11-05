@@ -1,0 +1,14 @@
+name: dadada
+
+on:
+  push:
+
+jobs:
+  MyBuild:
+    runs-on: windows-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: Run Projects
+        run: dotnet run 
