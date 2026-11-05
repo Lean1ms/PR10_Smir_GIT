@@ -1,0 +1,14 @@
+C:\Users\student247\PR10_Smirnow\bin\Debug\net10.0\PR10_Smirnow.exe
+C:\Users\student247\PR10_Smirnow\bin\Debug\net10.0\PR10_Smirnow.deps.json
+C:\Users\student247\PR10_Smirnow\bin\Debug\net10.0\PR10_Smirnow.runtimeconfig.json
+C:\Users\student247\PR10_Smirnow\bin\Debug\net10.0\PR10_Smirnow.dll
+C:\Users\student247\PR10_Smirnow\bin\Debug\net10.0\PR10_Smirnow.pdb
+C:\Users\student247\PR10_Smirnow\obj\Debug\net10.0\PR10_Smirnow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student247\PR10_Smirnow\obj\Debug\net10.0\PR10_Smirnow.AssemblyInfoInputs.cache
+C:\Users\student247\PR10_Smirnow\obj\Debug\net10.0\PR10_Smirnow.AssemblyInfo.cs
+C:\Users\student247\PR10_Smirnow\obj\Debug\net10.0\PR10_Smirnow.csproj.CoreCompileInputs.cache
+C:\Users\student247\PR10_Smirnow\obj\Debug\net10.0\PR10_Smirnow.dll
+C:\Users\student247\PR10_Smirnow\obj\Debug\net10.0\refint\PR10_Smirnow.dll
+C:\Users\student247\PR10_Smirnow\obj\Debug\net10.0\PR10_Smirnow.pdb
+C:\Users\student247\PR10_Smirnow\obj\Debug\net10.0\PR10_Smirnow.genruntimeconfig.cache
+C:\Users\student247\PR10_Smirnow\obj\Debug\net10.0\ref\PR10_Smirnow.dll
